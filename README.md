@@ -1,4 +1,4 @@
-# Digital-Champions-Rules-and-Instructions <!-- omit in toc -->
+# Digital Champions Rules and Instructions <!-- omit in toc -->
 This document simply contains the rules and instructions you should adhere to during Digital Champions. This is to keep everyone safe and compliant with the College's policies.
 - [Introduction](#introduction)
   - [Equipment and tools](#equipment-and-tools)
