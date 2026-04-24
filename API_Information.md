@@ -1,6 +1,6 @@
 # API Information
 
-An API is a set of rules that lets one piece of software talk to another, allowing them to share data or features without needing to know how the other is built.
+An API (Application Programming Interface) is a set of rules that lets one piece of software talk to another, allowing them to share data or features without needing to know how the other is built.
 
 Here is an example i.e. ordering at a restaurant
 

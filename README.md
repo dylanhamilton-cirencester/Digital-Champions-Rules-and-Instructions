@@ -22,7 +22,7 @@ You will be provided a computers and logins that have the following programs:
 
 - Visual Studio Code
 - Github Copilot
-- Postman
+- [Postman](Postman_Instructions.md)
 
 > [!NOTE]
 > If you would like to install any other programs you must ask a member of staff first so we can keep the event safe
@@ -47,6 +47,8 @@ One of these computers you will use for hosting your website/ webapp throughout 
 - A task will remain up during the event until somebody achieves it.
 - Each task can only be achieved once and as soon as it has the data will be unavailable to the other team.
 - **NOTE** once a successful code has been submitted then the API will lock down that endpoint so be careful when submitting your answer.
+
+Information about the API can be found [here](API_Information.md).
 
 # Event Incidents
 
@@ -99,3 +101,5 @@ Your ID cards are only able to access the room you should be in. That doesn't me
 ## Secret Scoring
 
 There is also some secret scoring the staff will do as we go for good workplace and cyber practices. We will reveal these at the end of the event.
+
+Example Scoring can be found [here](API_Information.md).
