@@ -6,7 +6,7 @@ Postman is a tool used by developers to test APIs. It has a great user interface
 
 Postman is simple to learn and easy to use. Here is an example for a simple GET request to an API.
 
-![Postman](imgs\Postman_Annotated.png)
+![Postman](/imgs/Postman_Annotated.png)
 
 **URL** - The URL is the endpoint to which you make the call to the API
 
