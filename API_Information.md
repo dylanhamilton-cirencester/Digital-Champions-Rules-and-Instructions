@@ -18,15 +18,8 @@ Here is an example i.e. ordering at a restaurant
 
 In simple terms: it’s like a menu in a restaurant: You (one system) choose what you want, the kitchen (another system) prepares it and sends it back.
 
-This document will give you the endpoints you will start with and some basic information on how to call the API.
-
-You will be using the Postman application at 
+You may use the Postman application during the event, useful information on how to use Postman can be found [here](Postman_Instructions.md).
 
 # Endpoints
 
-| Request Method | Endpoint                   | Content Type                      | Content Required   | Description                      |
-| :------------- | :------------------------- | :-------------------------------- | :----------------- | :------------------------------- |
-| GET            | /task/{task_number}        | N/A                               | N/A                | Get the information for the task |
-| POST           | /task/{task_number}/submit | application/json                  | team_token, code   | Submit the answer to the task    |
-| GET            | /account/login             | N/A                               | N/A                | Get the login page               |
-| POST           | /account/login             | application/x-www-form-urlencoded | username, password | Go to the user page directly     |
+You can find documentation for the API at `/docs`
