@@ -21,11 +21,11 @@ This week long event we have split you into two teams. Each team will be require
 You will be provided a computers and logins that have the following programs:
 
 - Visual Studio Code
-- Github Copilot
+- Github Desktop
 - [Postman](Postman_Instructions.md)
 
 > [!NOTE]
-> If you would like to install any other programs you must ask a member of staff first so we can keep the event safe
+> If you would like to install any other programs you must ask a member of staff first so we can keep the event safe and fair
 
 You may use online tools like GitHub but you should use your college account to create the account.
 
@@ -62,8 +62,8 @@ You **MUST NOT** delete any files, code or data from the other team. Doing so wi
 
 Your ID cards are only able to access the room you should be in. That doesn't mean you're not allowed to enter the other teams room.
 
-- **Stealing Data:** Once data has been collected it becomes unavailable. If you manage to get hold on data that your team did not get then inform the **Event Host** (a lecturer) in the room, show them the data and they will (if the data is real) penalise the other team for that data leak.
-- **Compromising a device** - If you manage to access a machine of the opposing team, run the "Compromise_Machine.exe" program on the computer. This will penalise the opponent significantly. 
+- **Stealing Data:** Once data has been collected it becomes unavailable. If you manage to get hold on data that your team did not get then inform the **Event Host** in the room, show them the data and they will verify it and penalise the other team for that data leak if applicable.
+- **Compromising a device** - If you manage to access a machine of the opposing team, will be able to [change the background](./Scope.md#systems-access) to simulate a compromised machine.
 
 > [!WARNING]
 > If you ever act unprofessionally during the event - e.g. barging into a room, stealing and keeping someone's lanyard, create malware of any kind - you will be removed from the event. This event is designed to simulate a real office with possible threats so we expect you to act in a professional manor as you would in a work place.
