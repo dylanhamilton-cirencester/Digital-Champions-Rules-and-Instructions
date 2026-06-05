@@ -89,6 +89,7 @@ Your ID cards are only able to access the room you should be in. That doesn't me
 | Data loss/ hour lost from incident             |  - 10 |
 | Incident prevented/ recovered from             |   + 5 |
 | Incident Documented properly                   |   + 5 |
+| Installing any unapproved software             |  - 20 |
 
 
 ## Sabotage
