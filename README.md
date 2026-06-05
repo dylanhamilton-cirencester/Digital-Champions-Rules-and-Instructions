@@ -29,18 +29,11 @@ You will be provided a computers and logins that have the following programs:
 
 You may use online tools like GitHub but you should use your college account to create the account.
 
-In your room you have a number of computers connected to a single VLAN that is separate from the other group's network.
-
-There are also 2 computers (that will be labelled) that are connected to a separate VLAN to simulate a live system. These 2 computers in each room will be connected to a VLAN that also has an API server you will use to get the data you will use in your project.
-
 # The Project
 
-You will be provided with a task similar to a real assignment. You will, during the week, produce a website or webapp that will be hosted on one of the two machines connected to the API server.
+You will be provided with a task similar to a real assignment. You will, during the week, produce a website or webapp that will be hosted locally on network on one of your PCs which will be acting as a server.
 
 # Competing for Data
-
-Two of the computers in your room (labelled to make it clear) are connected to a separate VLAN with access to an API on ip address <IP-ADDRESS-HERE>.
-One of these computers you will use for hosting your website/ webapp throughout the week.
 
 - Twice per day a task will be released (we will not tell you when) on the API which you can access using a HTTP GET request to `/task/<TASK_NUMBER>`. 
 - Once you have an answer to a task you can submit it using a POST request to `/task/<TASK_NUMBER>/submit` with "code" being the field to submit your answer.
