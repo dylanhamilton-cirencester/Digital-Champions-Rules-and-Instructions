@@ -49,11 +49,13 @@ During the event we will also introduces incidents that can occur at the office.
 
 # Sabotage
 
-You will also be able to interact with the other team in some restricted ways.
+~~You will also be able to interact with the other team in some restricted ways.~~
 
 You **MUST NOT** delete any files, code or data from the other team. Doing so will deduct significant points and may have you removed from the event entirely.
 
-Your ID cards are only able to access the room you should be in. That doesn't mean you're not allowed to enter the other teams room.
+~~Your ID cards are only able to access the room you should be in. That doesn't mean you're not allowed to enter the other teams room.~~
+
+**You must not spy on the other team or enter their room.**
 
 - **Stealing Data:** Once data has been collected it becomes unavailable. If you manage to get hold on data that your team did not get then inform the **Event Host** in the room, show them the data and they will verify it and penalise the other team for that data leak if applicable.
 - **Compromising a device** - If you manage to access a machine of the opposing team, will be able to [change the background](./Scope.md#systems-access) to simulate a compromised machine.
